@@ -29,3 +29,4 @@ def drawChart(internalData, ambientData):
 
 if __name__ == "__main__":
     getInfo()
+    
